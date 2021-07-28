@@ -28,7 +28,6 @@ User user;
 /*
 cls && g++ ATMMachine.cpp -o ATMMachine && ATMMachine
 */
-
 int main() {
     cout << "Hi! Welcome to the ATM Machine. " << endl << endl;
     Sleep(1000);
